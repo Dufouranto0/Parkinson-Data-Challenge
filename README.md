@@ -6,7 +6,7 @@ Solution to the [SFMN DaTscan Parkinson's Challenge](https://www.drivendata.org/
 
 | | |
 |---|---|
-| **Public leaderboard rank** | **#25** |
+| **Private leaderboard rank** | **#25** |
 | **Team / user** | Dufouranto |
 | **Submissions** | 14 |
 | **Scores shown on the leaderboard** | **0.2944** (log loss) and **0.9428** (AUROC) |
